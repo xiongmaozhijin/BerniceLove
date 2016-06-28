@@ -1,0 +1,7 @@
+    1  history -n 20 
+    2  history 
+    3  git pull origin master
+    4  git add .
+    5  git commit -m "Add Project"
+    6  git push origin master
+    7  history > cmd.txt
